@@ -1194,10 +1194,10 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="shrink" translatable="true" tools:ignore="Untranslatable">encongimiento</string>
     <string name="collect_all" translatable="true" tools:ignore="Untranslatable">recoger todo</string>
     <string name="magic_blob" translatable="true" tools:ignore="Untranslatable">blob mágico</string>
-    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">ice split</string>
+    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">separarse con hielo</string>
     <string name="circle" translatable="true" tools:ignore="Untranslatable">círculo</string>
     <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">mega pop</string>
-    <string name="no_virus" translatable="true" tools:ignore="Untranslatable">sandbox (no virus)</string>
+    <string name="no_virus" translatable="true" tools:ignore="Untranslatable">sandbox (sin pinchos)</string>
     <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">cazador de plasma</string>
     <string name="speed" translatable="true" tools:ignore="Untranslatable">velocidad</string>
     <string name="Session_Stats">Estadísticas de Sesión</string>
@@ -1222,7 +1222,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="DISABLED">DESHABILITAR</string>
     <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
     <string name="Invalid_Clan_ID_">ID de Clan inválida.</string>
-    <string name="MUTED">SILENCIADO</string>
+    <string name="MUTED">MUTEADO</string>
     <string name="SKIN">SKIN</string>
     <string name="Choose_Skin_Size">Elige el tamaño de la skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">¡Otros jugadores no podrán escucharte!</string>
