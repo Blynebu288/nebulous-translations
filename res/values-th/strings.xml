@@ -1085,8 +1085,8 @@
     <string name="SQUARES">สี่เหลี่ยม</string>
     <string name="TRICK_MODE">ทริคโหมด</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
-    <string name="TRICK_SPLIT">TRICK SPLIT</string>
-    <string name="POP_SPLIT">POP SPLIT</string>
+    <string name="TRICK_SPLIT">ทริคสปลิท</string>
+    <string name="POP_SPLIT">ป๊อปสปลิท</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
     <string name="Level_Colors">สีเลเวล</string>
     <string name="click_info">ออโต้คลิก / อัลตราคลิก ไม่สามารถใช้ได้ใน FFA คลาสสิค!</string>
@@ -1266,7 +1266,7 @@
     <string name="South_Africa">แอฟริกาใต้</string>
     <string name="SPLIT_">แยก:</string>
     <string name="WALLS">ผนัง</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="COMP_BANNED">คอมพ์ถูกแบน</string>
     <string name="FIND_GAMES">หาห้องเกม</string>
     <string name="PLAY_SOLO">เล่นคนเดียว</string>
     <string name="SET_EMOTE">ตั้งค่าอิโมท</string>
@@ -1328,13 +1328,14 @@
     <string name="language_change_warning">การเปลี่ยนภาษาจะทำให้แอปรีสตาร์ท</string>
     <string name="xmas_gift_boost_message">คุณได้รับของขวัญเป็น 3X พลาสมาบูสต์เป็นเวลา 1 วัน!</string>
     <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ต</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="RAMADAN">รอมฎอน</string>
+    <string name="SUDDEN_ATTACK">การโจมตีอย่างกะทันหัน</string>
+    <string name="_2x_skin_resolution">ความละเอียดของผิว 2 เท่า</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">คุณเป็นเพื่อนกันแล้ว.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">บัญชีจะต้องมีอายุ 1 วันจึงจะสามารถส่งจดหมายได้.</string>
+    <string name="Translator">นักแปล</string>
+    <string name="SUCCESS">ความสำเร็จ</string>
 
 
     <string-array name="control_modes">
@@ -1375,7 +1376,7 @@
         <item>"เล็ก"</item>
         <item>"ปกติ"</item>
         <item>"ใหญ่"</item>
-        <item>"HUGE"</item>
+        <item>"มหึมา"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">

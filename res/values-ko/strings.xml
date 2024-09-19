@@ -38,7 +38,7 @@
     <string name="Score__">"점수: "</string>
     <string name="Recombine_">"재결합:"</string>
     <string name="WINNER_">"우승자:"</string>
-    <string name="IDLE">"유휴 상태"</string>
+    <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
     <string name="CONNECTED">"연결 됨"</string>
@@ -129,7 +129,7 @@
     <string name="Friend_Request_Sent">"친구 요청이 전송되었습니다 …"</string>
     <string name="ERROR">"오류"</string>
     <string name="CONTINUE">"계속"</string>
-    <string name="Global_" formatted="false">"글로벌 %"</string>
+    <string name="Global_" formatted="false">"글로벌"</string>
     <string name="FRIEND_CHAT">"친구 채팅"</string>
     <string name="LOBBY_NAME">"방 이름"</string>
     <string name="NULL">"존재하지 않음"</string>
@@ -379,7 +379,7 @@
     <string name="MATCH_START">"매칭 시작"</string>
     <string name="Clan_Warrior">"클랜 워리어"</string>
     <string name="Win_a_Clan_War">"클랜 전쟁 승리하기"</string>
-    <string name="Global">"글로벌 %"</string>
+    <string name="Global">"글로벌"</string>
     <string name="Spectating">"관전"</string>
 
 
@@ -886,7 +886,7 @@
     <string name="UI_Opacity_">UI 투명도</string>
     <string name="LOAD">불러오기</string>
     <string name="REMOVE">추방</string>
-    <string name="BAN">영구추방</string>
+    <string name="BAN">영구 추방</string>
     <string name="MODERATORS">관리자들</string>
     <string name="ALL_CLAN">클랜\n전체</string>
     <string name="CO_LEADER">부대표</string>
@@ -1030,7 +1030,7 @@ Nebulous 규칙\n
     <string name="BLOCKED">차단됨</string>
     <string name="CLAN_WAR_HISTORY">클랜 전쟁 기록</string>
     <string name="Particle">파티클</string>
-    <string name="Privacy">개인정보처리방침</string>
+    <string name="Privacy">개인정보 처리방침</string>
     <string name="EULA">소프트웨어 사용권 동의</string>
     <string name="You_can_purchase_this_hat_for">당신은 이 모자를 다음 가격에 구매할 수 있습니다: </string>
     <string name="You_can_purchase_this_particle_for">당신은 이 파티클을 다음 가격에 구매할 수 있습니다: </string>
@@ -1043,13 +1043,13 @@ Nebulous 규칙\n
     <string name="POSITION_SPLIT_BUTTON">분열 버튼 위치</string>
     <string name="POSITION_EJECT_BUTTON">방출 버튼 위치</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">방출 토글 버튼 위치</string>
-    <string name="WIFI">Wi-Fi(LAN)</string>
+    <string name="WIFI">기기와 인터넷(LAN)</string>
     <string name="JOIN_IP">IP로 접속</string>
     <string name="Specify_Host_IP">호스트 IP 입력</string>
     <string name="ADVANCED_SETUP">고급 설정</string>
-    <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
-    <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
-    <string name="GIF_Skins">GIF Skins</string>
+    <string name="WORLD_CUP_EVENT___">월드컵 이벤트!!! </string>
+    <string name="world_cup_event_description">월드컵이 끝날 때까지 축구 모드에서 더블 XP와 더블 플라즈마!</string>
+    <string name="GIF_Skins">GIF 스킨들</string>
     <string name="PLAY_ONLINE_">온라인으로 플레이하세요!</string>
     <string name="Absorb_10_000_000_dots">도트 10,000,000 먹기</string>
     <string name="Dot_Deity">도트의 신</string>
@@ -1132,8 +1132,8 @@ Nebulous 규칙\n
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">누군가 그룹에 참여했습니다</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">누군가 그룹을 떠났습니다.</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">그룹을 떠났습니다.</string>
-    <string name="Tricks_Performed_">수행 된 트릭 :</string>
-    <string name="Not_enough_plasma_">혈장이 충분하지 않습니다!</string>
+    <string name="Tricks_Performed_">수행된 트릭 :</string>
+    <string name="Not_enough_plasma_">플라즈마가 충분하지 않습니다!</string>
     <string name="GET_PLASMA">혈장 도망</string>
     <string name="ASTEROIDS">소행성</string>
     <string name="CHRISTMAS">성탄절</string>
@@ -1145,7 +1145,7 @@ Nebulous 규칙\n
     <string name="Invites">초대장</string>
     <string name="Show_Spectator_Count">관전자 수 보기</string>
     <string name="TRY_IT_">체험해보기!</string>
-    <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
+    <string name="Textures_will_be_regenerated_">검은색 텍스처와 사용자 정의 스킨이 다시 생성됩니다.</string>
 
     <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">당신은 이 스킨을 한 번만 체험해볼 수 있습니다. 게임에서 죽거나 변경한 뒤에는 사용할 수 없습니다. 스킨을 체험중일 때에는 다른사람에게 보이지 않습니다.\n가격: %s 플라즈마.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">이 것을 사용하려면 꾸러미를 구매해야 합니다.</string>
@@ -1299,7 +1299,7 @@ Nebulous 규칙\n
     <string name="South_Africa">남아프리카</string>
     <string name="SPLIT_">분열:</string>
     <string name="WALLS">벽</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="COMP_BANNED">경쟁전 밴</string>
     <string name="FIND_GAMES">게임 검색</string>
     <string name="PLAY_SOLO">혼자서 플레이</string>
     <string name="SET_EMOTE">감정표현 설정</string>
@@ -1352,7 +1352,7 @@ Nebulous 규칙\n
     <string name="x5_XP_24_hours">경험치 5배 (24시간)</string>
     <string name="x5_XP_Permanent">경험치 5배 (무기한)</string>
     <string name="CAMPAIGN_2">캠페인 2</string>
-    <string name="XP_5x">XP 5x</string>
+    <string name="XP_5x">경험치 5배</string>
     <string name="India">인디아</string>
     <string name="Tutorial">자습서</string>
     <string name="TYCOON">대군</string>
@@ -1376,11 +1376,12 @@ Nebulous 규칙\n
 
 로그인하고 싶지 않다면, 싱글 플레이어 모드로도 게임을 할 수 있습니다."
     </string>
-    <string name="_2x_skin_resolution">이배 스킨 해상도</string>
-    <string name="pm">PM</string>
+    <string name="_2x_skin_resolution">2배 스킨 해상도</string>
+    <string name="pm">귓속말</string>
     <string name="You_are_already_friends_">당신은 이미 친구입니다.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">메일을 보내려면 계정이 최소 하루 이상 경과해야 합니다.</string>
-    <string name="Translator">역자</string>
+    <string name="Translator">번역자</string>
+    <string name="SUCCESS">성공</string>
 
     <string-array name="control_modes">
         <item>"일반"</item>
@@ -1397,7 +1398,7 @@ Nebulous 규칙\n
         <item>"오른쪽 + 왼쪽"</item>
         <item>"스택 왼쪽"</item>
         <item>"스택 오른쪽"</item>
-        <item>"Custom"</item>
+        <item>"사용자 정의"</item>
     </string-array>
 
     <string-array name="themes">
@@ -1420,7 +1421,7 @@ Nebulous 규칙\n
         <item>"소형"</item>
         <item>"중형"</item>
         <item>"대형"</item>
-        <item>"HUGE"</item>
+        <item>"초대형"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
